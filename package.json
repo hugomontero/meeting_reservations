@@ -1,0 +1,27 @@
+{
+  "name": "meeting_reservations",
+  "version": "1.0.0",
+  "description": "Given a file with reservations, accept or reject each one depending of availability of two rooms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugomontero/meeting_reservations.git"
+  },
+  "author": "hugo.montero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugomontero/meeting_reservations/issues"
+  },
+  "homepage": "https://github.com/hugomontero/meeting_reservations#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
